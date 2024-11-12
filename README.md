@@ -3,6 +3,6 @@
 
 Currently, HypoSyncNet is in the conceptual stage, and many aspects of the project may evolve. Extensive research and data gathering are required to determine the specific research direction moving forward.
 
-The project is scheduled to start on December 15, 2024. Stay tuned!
+The project is scheduled to start on December 25, 2024. Stay tuned!
 
 ![image](https://github.com/user-attachments/assets/cd490325-bc4e-4379-a094-72ab6355ab5e)
